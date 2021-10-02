@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+[Kaynak Makale](https://betterprogramming.pub/build-a-to-do-app-in-react-with-easy-peasy-and-ant-design-2725dc7d1cf6)
+
+[Demo Sayfa](https://todo-enes-tarik-enes.surge.sh/)
+
+
+Sayfa Önizleme
+
+![](https://i.ibb.co/7pw83Vh/Screen-Shot-2021-10-02-at-17-49-25.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
